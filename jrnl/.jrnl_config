@@ -1,0 +1,15 @@
+{
+  "default_hour": 0, 
+  "timeformat": "(%Y-%m-%d %H:%M)", 
+  "linewrap": false, 
+  "encrypt": false, 
+  "editor": "subl -w", 
+  "default_minute": 0, 
+  "highlight": true, 
+  "journals": {
+    "default": "/home/ccc/Dropbox/log/gtd.log",
+    "chd": "/home/ccc/Dropbox/log/chd.log"
+    "stu": "/home/ccc/Dropbox/log/stu.log"
+  }, 
+  "tagsymbols": "@"
+}
